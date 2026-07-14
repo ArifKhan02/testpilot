@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report Title & Theme Settings -->
+        <theme>dark</theme> <!-- Change to standard for light mode -->
+        <reportName>Automation Execution Report</reportName>
+        <documentTitle>Test Results</documentTitle>
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+    </configuration>
+</extentreports>
