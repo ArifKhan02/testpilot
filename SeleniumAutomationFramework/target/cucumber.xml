@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="17.68" tests="1" skipped="0" failures="0" errors="0">
-<testcase classname="Login into demoWebShop" name="Logging in to make my trip site - Example #1.1" time="17.515">
+<testsuite name="Cucumber" time="9.553" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Login into demoWebShop" name="Logging in to make my trip site - Example #1.1" time="9.358">
 <system-out><![CDATA[
 Given Load the demoWebShop "https://demowebshop.tricentis.com/login"........passed
 When Enter the credentials "ARIF12@gmail.com" and "Akh123" in the demoWebShop.passed
